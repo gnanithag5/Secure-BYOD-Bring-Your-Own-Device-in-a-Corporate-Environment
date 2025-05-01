@@ -6,15 +6,6 @@ BYOD (Bring Your Own Device) policies enable employees to use their personal dev
 
 This project aims to combine various security technologies, including Mobile Device Management (MDM), Network Access Control (NAC), Zero Trust Network Architecture (ZTNA), and Firewall Filtering, to enhance the security of BYOD environments. These measures help ensure that only compliant devices can access sensitive corporate resources and that all devices, regardless of ownership, are constantly monitored and protected.
 
-### **Requirements**
-
-1. faker: Used for generating fake data such as names, addresses, dates, etc.
-2. scapy: A powerful Python library used for network packet manipulation and analysis.
-3. pandas: A library for data manipulation and analysis, specifically for working with data in tabular form.
-4. numpy: A library for numerical computations, useful for handling arrays and mathematical operations.
-5. matplotlib.pyplot: A plotting library for generating visualizations like graphs and charts.
-6. ipaddress: A library for working with IP addresses in Python, used for parsing and manipulating network addresses.
-
 ### **Project Code**
 
 The project consists of several key code snippets that implement security measures for a secure BYOD environment:
